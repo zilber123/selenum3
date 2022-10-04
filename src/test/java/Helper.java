@@ -18,8 +18,7 @@ public class Helper {
 
      public static final String Development ="//*[@id=\"menu-item-6832\"]/a";
 
-     public static final String EMAIL ="public static final String";
-     public static final String login ="//*[@id=\"features\"]/div/div[3]/a";
+
      public static final String projectScreenshots ="https://www.istockphoto.com/photo/happy-birthday-delicious-cupcake-with-burning-candle-on-light-background-gm1327255314-411664842?utm_source=pixabay&utm_medium=affiliate&utm_campaign=SRP_image_sponsored&utm_content=http%3A%2F%2Fpixabay.com%2Fimages%2Fsearch%2Fhappy%2520birthday%2F&utm_term=happy+birthday";
 
      public static final String TXT = ".txt";
@@ -28,6 +27,14 @@ public class Helper {
      public static final String NAME = "WIKI TXT";
 
      public static final String FOLDER = "C:\\Users\\morad\\Documents\\";
+     public static final String WEB2="https://www.wikipedia.org/";
+     public static final String CLICK2="//*[@id=\"searchInput\"]";
+     public static final String TAP="Infected Mushroom\n";
+     public static final String play="//*[@id=\"mwe_player_0\"]/div[4]/button[1]";
+
+
+
+
 
 
      public static WebDriver Object;
